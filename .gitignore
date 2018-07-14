@@ -1,6 +1,7 @@
-
-\.vscode/
-
-*.cache
-
-SDi_application/obj/
+node_modules/
+wwwroot/
+obj/
+bin/
+.vscode/
+*.dll
+*.pdb
