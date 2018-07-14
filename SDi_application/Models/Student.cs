@@ -56,5 +56,11 @@ namespace SDi_application.Models
 		/// Assigned school email
 		/// </summary>
 		public string SchoolEmail { get; set; }
+
+		///<summary>
+		///Student's Weight in lbs
+		///</summary>
+		public double Weight { get; set; }
+
 	}
 }
